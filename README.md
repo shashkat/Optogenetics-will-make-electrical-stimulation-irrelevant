@@ -1,2 +1,7 @@
 # Optogenetics-will-make-electrical-stimulation-irrelevant
-BSE656A (Neurobiology Course)-Debate Report
+
+In this debate, we are going to give arguments on why Electrical stimulation, a technique widely used in neurobiology to stimulate a neuron or neural network in the brain through the direct or indirect excitation of its cell membrane with the help of electric current, stand no chance against, a relatively new technique that uses light to control neurons that have been genetically modified to express light-sensitive ion channels known as Optogenetics.
+
+At the beginning of the 1980s, Nobel laureate Francis Crick came up with a new idea to overcome the challenge of “Controlling all cells from one type in the brain while leaving the others more or less unaltered” with the help of light as it does not affect signalling while scattering. To implement this idea to make revolutionary advancements in terms of stimulating the brain, the field of Optogenetics came into the picture, which paved the way for replacing extensively used Electrical Stimulation with a new and significantly better domain of Optogenetics. The temporal resolution of Optogenetics has the order of milliseconds that will help us keep track of fast-changing biological data.
+
+In 2010, the interdisciplinary research journal chose Optogenetics as the “Method of the Year” across all fields of Science and engineering. At the same time, Optogenetics was highlighted in the article “Breakthroughs of the Decade” in the academic research journal Science.
